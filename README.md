@@ -23,6 +23,7 @@ Notably Palantir has been able to use Big Data to help governments identify terr
 
 * How is your company performing relative to competitors in the same domain?
 <p>
+
 ## **Recommendations**
 ---
 <p>
