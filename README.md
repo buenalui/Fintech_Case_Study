@@ -10,22 +10,17 @@ Palantir is a software company that uses big data to help develop specific softw
 ```
 ## **Business Activities:**
 ---
-```
-Palantir's software uses data analytics to help companies understand what is facing whether it be customers, supply chain, or competitors. Palantir is an expensive and an long term investment used to solve complex problems so it is geared towards big companies or governments, rather than small to medium sized businesses. Ever since Palantir has shifted towards the private sector, they differ from their competitors by not only providing a platform specific to the company, but also provides on-site engineers to personally supervise the product, similar to a consulting business. The type of applications that Palantir currently uses are NGINX, Bootstrap, Handlebars.js, Plottable.js, Google Analytics, Varnish, and Salesforce. 
-```
+<p>Palantir's software uses data analytics to help companies understand what is facing whether it be customers, supply chain, or competitors. Palantir is an expensive and an long term investment used to solve complex problems so it is geared towards big companies or governments, rather than small to medium sized businesses. Ever since Palantir has shifted towards the private sector, they differ from their competitors by not only providing a platform specific to the company, but also provides on-site engineers to personally supervise the product, similar to a consulting business. The type of applications that Palantir currently uses are NGINX, Bootstrap, Handlebars.js, Plottable.js, Google Analytics, Varnish, and Salesforce.<p>
+
 ## **Landscape:**
 ---
 ```
-The first company that worked with Palantir, once they started targeting the private sector, was JP Morgan Chase & Co. Palantir's technology could help all domains of finance from Payments & Remittances by reducing fraudulent transactions to InsurTech by using data analytics to get a better understanding of their customers.
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
+The first company that worked with Palantir, once they started targeting the private sector, was JP Morgan Chase & Co. While Palantir's technology could help all domains of finance but the Palantir Foundry Product mainly assists global banks and regulators with potential fraud investigations. As data keeps being collected, Palantir can use big data to help solve problems from fraud to helping design a software can trade using algorithms and data points. We have always used data to review financial data; but as of recently, data combined with computing power, can be used to help buy and sell a stock. Since Palantir is a data analytics and software company, their competitors are other data management or software companies like Cognizant, Splunk, or Tableau.
 ```
 ## **Results**
 ---
 ```
-* What has been the business impact of this company so far?
+Notably Palantir has been able to use Big Data to help governments identify terrorism and even assisted the U.S in finding Osama Bin Laden. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
