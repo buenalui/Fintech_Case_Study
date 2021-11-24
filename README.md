@@ -5,7 +5,7 @@
 ## **Overview and Origin**
 ---
 ```
-Palantir is a software company that uses big data to help develop specific software platforms taylored to their customers. It was founded by Peter Thiel, Nathan Gettings, Joe Lonsdale, Stephen Cohen, and Alex Karp in 2004.  Peter Thiel was a co-founder of PayPal who saw that they could use PayPals fraud recognition system to help reduce terrorism and financial fraud. During the early investments, Peter Thiel and his venture capital fund contributed $30 million while the CIA contributed an additioanl $2 million.
+<p>Palantir is a software company that uses big data to help develop specific software platforms taylored to their customers. It was founded by Peter Thiel, Nathan Gettings, Joe Lonsdale, Stephen Cohen, and Alex Karp in 2004.  Peter Thiel was a co-founder of PayPal who saw that they could use PayPals fraud recognition system to help reduce terrorism and financial fraud. During the early investments, Peter Thiel and his venture capital fund contributed $30 million while the CIA contributed an additioanl $2 million.<p>
 
 ```
 ## **Business Activities:**
