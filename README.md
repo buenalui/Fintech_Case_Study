@@ -1,6 +1,6 @@
 # **PALANTIR**
 
-![palantir](palantir.png)
+![palantir](Palantir.png)
 
 ## **Overview and Origin**
 ---
