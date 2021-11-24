@@ -1,28 +1,22 @@
-# **(FinTech Company)**
+# **PALANTIR**
+
+![palantir](palantir.png)
 
 ## **Overview and Origin**
 ---
 ```
-* When was the company incorporated?
+Palantir is a software company that uses big data to help develop specific software platforms taylored to their customers. It was founded by Peter Thiel, Nathan Gettings, Joe Lonsdale, Stephen Cohen, and Alex Karp in 2004.  Peter Thiel was a co-founder of PayPal who saw that they could use PayPals fraud recognition system to help reduce terrorism and financial fraud. During the early investments, Peter Thiel and his venture capital fund contributed $30 million while the CIA contributed an additioanl $2 million.
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
 ```
 ## **Business Activities:**
 ---
 ```
-* What specific financial problem is the company or project trying to solve?
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Palantir's software uses data analytics to help companies understand what is facing whether it be customers, supply chain, or competitors. Palantir is an expensive and an long term investment used to solve complex problems so it is geared towards big companies or governments, rather than small to medium sized businesses. Ever since Palantir has shifted towards the private sector, they differ from their competitors by not only providing a platform specific to the company, but also provides on-site engineers to personally supervise the product, similar to a consulting business. The type of applications that Palantir currently uses are NGINX, Bootstrap, Handlebars.js, Plottable.js, Google Analytics, Varnish, and Salesforce. 
 ```
 ## **Landscape:**
 ---
 ```
-* What domain of the financial industry is the company in?
+The first company that worked with Palantir, once they started targeting the private sector, was JP Morgan Chase & Co. Palantir's technology could help all domains of finance from Payments & Remittances by reducing fraudulent transactions to InsurTech by using data analytics to get a better understanding of their customers.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
