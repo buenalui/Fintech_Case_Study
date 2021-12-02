@@ -29,3 +29,11 @@ Notably Palantir has been able to use Big Data to help governments identify terr
 <br>
 The current products of Palantir are mainly used for big companies or governments but a great small to medium business product could range from fashion to real estate. This would benefit small businesses where they cannot keep up with corporations. It brings more competition to the market. It would also help expand Palantir's business from mainly Government contracts to the Private Sector. It would still use the same technology except catered to the specific business. </br>
 <p>
+<br>
+</br>
+
+### **SOURCES**
+---
+https://www.palantir.com/offerings/anti-money-laundering/
+https://www.palantir.com/platforms/foundry/
+https://craft.co/palantir-technologies/competitors
