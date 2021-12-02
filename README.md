@@ -34,6 +34,11 @@ The current products of Palantir are mainly used for big companies or government
 
 ### **SOURCES**
 ---
+<br>
 https://www.palantir.com/offerings/anti-money-laundering/
-https://www.palantir.com/platforms/foundry/
-https://craft.co/palantir-technologies/competitors
+</br>
+<br>
+https://www.palantir.com/platforms/foundry/</br>
+<br>
+https://craft.co/palantir-technologies/competitors</br>
+
