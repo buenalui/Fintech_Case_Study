@@ -1,4 +1,4 @@
-# **PALANTIR**
+# **PALANTIR TECHNOLOGIES**
 
 ![palantir](Palantir.png)
 
